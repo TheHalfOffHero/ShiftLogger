@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SwVPbJMDJD+7f51vGHMRst+0Fp5AjhH9A02VcYPJkQSvXdegrA4Ygc+LG3yVdzwn/2WFrNSA/tVOrB0r8GVmPA==",
+  "dgSpecHash": "8Me8HYn+yq3piVHAicR3veJRnMzfirDYH4CDbm6BMIttD0XDhQNJrREtXFTuKWFzEaQ0XNxtrAG4gGYHmZ6htA==",
   "success": true,
   "projectFilePath": "/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/ShiftLoggerCHUI.csproj",
   "expectedPackageFiles": [
-    "/Users/matt.ruiz/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512"
+    "/Users/matt.ruiz/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512",
+    "/Users/matt.ruiz/.nuget/packages/spectre.console.cli/0.49.1/spectre.console.cli.0.49.1.nupkg.sha512"
   ],
   "logs": []
 }
