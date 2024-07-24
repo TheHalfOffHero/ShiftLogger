@@ -1,0 +1,17 @@
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/bin/Debug/net8.0/ShiftLoggerCHUI
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/bin/Debug/net8.0/ShiftLoggerCHUI.deps.json
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/bin/Debug/net8.0/ShiftLoggerCHUI.runtimeconfig.json
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/bin/Debug/net8.0/ShiftLoggerCHUI.dll
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/bin/Debug/net8.0/ShiftLoggerCHUI.pdb
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/bin/Debug/net8.0/Spectre.Console.dll
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ShiftLoggerCHUI.csproj.AssemblyReference.cache
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ShiftLoggerCHUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ShiftLoggerCHUI.AssemblyInfoInputs.cache
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ShiftLoggerCHUI.AssemblyInfo.cs
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ShiftLoggerCHUI.csproj.CoreCompileInputs.cache
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ShiftLog.5F1F2A4E.Up2Date
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ShiftLoggerCHUI.dll
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/refint/ShiftLoggerCHUI.dll
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ShiftLoggerCHUI.pdb
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ShiftLoggerCHUI.genruntimeconfig.cache
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ref/ShiftLoggerCHUI.dll
