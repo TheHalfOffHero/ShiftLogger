@@ -15,3 +15,8 @@
 /Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ShiftLoggerCHUI.pdb
 /Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ShiftLoggerCHUI.genruntimeconfig.cache
 /Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ref/ShiftLoggerCHUI.dll
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/bin/Debug/net8.0/Spectre.Console.Cli.dll
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/bin/Debug/net8.0/de/Spectre.Console.Cli.resources.dll
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/bin/Debug/net8.0/fr/Spectre.Console.Cli.resources.dll
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/bin/Debug/net8.0/sv/Spectre.Console.Cli.resources.dll
+/Users/matt.ruiz/repos/personal/ShiftLogger/ShiftLoggerCHUI/obj/Debug/net8.0/ShiftLoggerCHUI.sourcelink.json

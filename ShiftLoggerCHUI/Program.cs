@@ -1,3 +1,5 @@
-﻿using Spectre.Console;
+﻿
+using ShiftLoggerCHUI.Services;
 
-AnsiConsole.Markup("[underline red]Hello[/] World!");
+AppService app = new AppService();
+app.run();
